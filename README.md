@@ -6,7 +6,7 @@ print (cycling)
 running = int(input("Please enter your finish time in minutes for RUNNING: "))
 print (running)
 
-# Use the arithmetic operator to calculate the user's total minutes.
+# Uses the arithmetic operator to calculate the user's total minutes.
 total_minutes = ((swimming) + (cycling) + (running))
 
 
